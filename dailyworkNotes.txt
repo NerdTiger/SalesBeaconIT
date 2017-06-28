@@ -37,7 +37,22 @@ https://unix.stackexchange.com/questions/114553/how-to-run-perl-cgi-script-on-ap
 register with google account;
 [5]github 
 repository-project, not done
+https://www.tutorialspoint.com/git/git_tutorial.pdf
+https://guides.github.com/activities/hello-world/
+https://guides.github.com/introduction/flow/
+https://www.youtube.com/githubguides
+https://guides.github.com/
+https://services.github.com/on-demand/
+
 [6]email signature , not done
+[7]perl and apache
+https://users.cs.cf.ac.uk/Dave.Marshall/PERL/node196.html
+https://unix.stackexchange.com/questions/114553/how-to-run-perl-cgi-script-on-apache?newreg=c2094a0b50da457faf7ad65ebe1985cb
+https://www.tutorialspoint.com/perl/perl_cgi.htm
+[8]webhost and hostgator
+https://www.youtube.com/watch?v=1be19dcAzDw
+https://142.4.30.52:2087/cpsess5719546425/
+
 
 2017-6-29
 [1]review yesterdays work;
