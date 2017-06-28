@@ -38,3 +38,7 @@ register with google account;
 [5]github 
 repository-project, not done
 [6]email signature , not done
+
+2017-6-29
+[1]review yesterdays work;
+[2]work out todo list;
