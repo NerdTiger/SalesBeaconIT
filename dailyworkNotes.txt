@@ -1,0 +1,40 @@
+cisco spark training
+https://www.g2crowd.com/compare/cisco-spark-vs-smartsheet
+spark custom develop;some languages something, whats that?
+top spark API
+
+REDDELL NAME:ZXIRBO017OEDNGA
+
+Time Tracker log
+Introduction 
+portal links;
+https://mdina.ca/cgi-bin/Services/sp.cgi/
+
+
+todo list:
+[1]Cpanel
+[2]Hostgator
+[3]talk to Bill
+[4]setup 902323183 for Megan
+[5]
+
+
+2017-6-28
+todo list:
+[1]1030 work with Lesek on total av;
+[2]donwload virtualbox and ubuntu;
+[3]install apache onto ubuntu, write first perl script and run it on apace;
+[4]how to backup mysql
+[5]install total av for Mary
+
+
+2017-6-28
+[1]cynthia's laptop crashed;
+[2]HR introduction document dispeared;
+[3]send mail to joe to ask the code status
+[4]unix question and answer site;
+https://unix.stackexchange.com/questions/114553/how-to-run-perl-cgi-script-on-apache
+register with google account;
+[5]github 
+repository-project, not done
+[6]email signature , not done
