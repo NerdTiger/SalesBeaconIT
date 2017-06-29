@@ -84,6 +84,9 @@ https://www.youtube.com/watch?v=1be19dcAzDw
 https://142.4.30.52:2087/cpsess5719546425/
 [9]fix Lesek surface ever-lasting restarting issue
 
-
-
+[10]
+[10.1]create branch p2 from master;
+[10.2]change direct lnto master;
+[10.3]create brcnch p3 from master
+[10.4]create pull request(merge p2 back to master?) 
 
