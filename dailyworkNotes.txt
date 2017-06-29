@@ -83,6 +83,7 @@ https://www.tutorialspoint.com/perl/perl_cgi.htm
 https://www.youtube.com/watch?v=1be19dcAzDw
 https://142.4.30.52:2087/cpsess5719546425/
 [9]Dell Port Replicator is not compatible with my new Precision 5520.(check mail)
+[10]fix Lesek surface ever-lasting restarting issue
 
 
 
