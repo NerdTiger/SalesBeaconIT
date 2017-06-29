@@ -29,9 +29,9 @@ todo list:
 
 
 2017-6-28
-[1]cynthia's laptop crashed;
-[2]HR introduction document dispeared;
-[3]send mail to joe to ask the code status
+[1]cynthia's laptop crashed;(Outlook crashed, she reinstall it;)
+[2]HR introduction document dispeared(send follow-up mail );
+[3]send mail to joe to ask the code status(he might give me a overview document early next week)
 [4]unix question and answer site;
 https://unix.stackexchange.com/questions/114553/how-to-run-perl-cgi-script-on-apache
 register with google account;
@@ -44,7 +44,7 @@ https://www.youtube.com/githubguides
 https://guides.github.com/
 https://services.github.com/on-demand/
 
-[6]email signature , not done
+[6]email signature , (send mail to Maxine to ask)
 [7]perl and apache
 https://users.cs.cf.ac.uk/Dave.Marshall/PERL/node196.html
 https://unix.stackexchange.com/questions/114553/how-to-run-perl-cgi-script-on-apache?newreg=c2094a0b50da457faf7ad65ebe1985cb
@@ -57,3 +57,33 @@ https://142.4.30.52:2087/cpsess5719546425/
 2017-6-29
 [1]review yesterdays work;
 [2]work out todo list;
+
+
+[1]cynthia's laptop crashed;(Outlook crashed, she reinstall it;)
+[2]HR introduction document dispeared(send follow-up mail );
+[3]send mail to joe to ask the code status(he might give me a overview document early next week)
+[4]unix question and answer site;
+https://unix.stackexchange.com/questions/114553/how-to-run-perl-cgi-script-on-apache
+register with google account;
+[5]github 
+repository-project, not done
+https://www.tutorialspoint.com/git/git_tutorial.pdf
+https://guides.github.com/activities/hello-world/
+https://guides.github.com/introduction/flow/
+https://www.youtube.com/githubguides
+https://guides.github.com/
+https://services.github.com/on-demand/
+
+[6]email signature , (send mail to Maxine to ask)
+[7]perl and apache
+https://users.cs.cf.ac.uk/Dave.Marshall/PERL/node196.html
+https://unix.stackexchange.com/questions/114553/how-to-run-perl-cgi-script-on-apache?newreg=c2094a0b50da457faf7ad65ebe1985cb
+https://www.tutorialspoint.com/perl/perl_cgi.htm
+[8]webhost and hostgator
+https://www.youtube.com/watch?v=1be19dcAzDw
+https://142.4.30.52:2087/cpsess5719546425/
+
+
+
+
+
