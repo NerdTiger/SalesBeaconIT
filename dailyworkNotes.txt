@@ -91,3 +91,14 @@ https://142.4.30.52:2087/cpsess5719546425/
 [10.3]create brcnch p3 from master
 [10.4]create pull request(merge p2 back to master?) 
 
+2017-6-30
+[1]fix stop working issue of outlook;
+[1.1]ctrl+click for safe mode
+[1.2]windowlogo+R, type in outlook /safe;
+[1.3]remove teamviewer addin;
+[1.4]not working, backup and delete .ost files;
+[1.5]ask Cynthia.s password to rebuild profile by restart outlook;
+[1.6]working under safe mode, but not normal mode;
+[1.7]unselect pdfmaker addin;
+[1.8]working now;
+[2]install totalav for Maxine and Cynthia;
