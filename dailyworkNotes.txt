@@ -103,6 +103,7 @@ https://142.4.30.52:2087/cpsess5719546425/
 [1.8]working now;
 [2]install totalav for Maxine and Cynthia;
 
+2017-7-4
 [1]Danellie can not send mails with GMail for those exceed 25M;
 [2]install antivirus and uninstall avdefender for cynthia's tablet;
 [3]email signature done 
